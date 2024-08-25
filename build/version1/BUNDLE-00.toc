@@ -1,0 +1,3 @@
+([('version1',
+   '/Users/austinliao/repos/Python-GUI/dist/version1',
+   'EXECUTABLE')],)
